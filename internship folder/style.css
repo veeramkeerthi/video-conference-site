@@ -1,0 +1,64 @@
+.img1 {
+    height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vw;
+    padding: 15px;
+    margin: 15px;
+
+}
+
+.text-card {
+    text-align: center;
+    font-family: "Roboto";
+    padding: 10px;
+
+}
+
+.detail-text-card {
+    text-align: center;
+    font-family: "Roboto";
+    padding: 10px;
+}
+
+.head {
+    color: #183b56;
+    font-weight: bold;
+    text-align: center;
+}
+
+.para {
+    color: #5a7184;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.detail-head {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.statistics{
+    margin: 10px;
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
+    padding-left: 10px;
+    
+}
+
+.detail-para {
+    color: #5a7184;
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
